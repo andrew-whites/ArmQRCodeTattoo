@@ -1,0 +1,10 @@
+Api/.env/bin/lib/
+Api/.env/bin/lib64/
+Api/.env/bin/flask
+Api/.env/bin/pip
+Api/.env/bin/pip3
+Api/.env/bin/pip3.11
+Api/.env/bin/python
+Api/.env/bin/python3
+Api/.env/bin/python3.11
+Api/.env/lib/
